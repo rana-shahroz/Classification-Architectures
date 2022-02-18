@@ -1,2 +1,2 @@
 # Classification-Architectures
-Classification Architectures implemented in pytorch.
+Classification Architectures implemented in pytorch. WORK IN PROGRESS
